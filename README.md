@@ -14,4 +14,5 @@ for better insights and decision Making
 	4. Insights
 	5. Inference
 This points needs to be included in the sheet.
-### To view Viz created by me on Tableau Public click [here](https://public.tableau.com/app/profile/sneha.sawant/viz/shared/77FNMBPYP)
+### To view Viz on Tableau Public click [here](https://public.tableau.com/app/profile/sneha.sawant/viz/shared/77FNMBPYP)
+### ![Dashboard 2 (1)](https://github.com/sneha14sawant/Jadhav_Store_Order_Data_Analysis_Report/assets/128956551/eb850b55-ef10-41e1-9ecc-da10a916bcae)
